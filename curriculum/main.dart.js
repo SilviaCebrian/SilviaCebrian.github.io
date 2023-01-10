@@ -21873,7 +21873,7 @@ return A.a6($async$jD,r)},
 aGI(){var s=null
 A.jD(A.e4(s,"silviacebrianruiz@gmail.com",s,s,u.X,s,"mailto",s))},
 aGF(){var s=null
-A.jD(A.e4("linkedin.com","/in/silvia-cebri%C3%A1n-ruiz-95a434169/",s,s,s,s,"https",s))},
+A.jD(A.e4("linkedin.com","/in/silvia-c-95a434169/",s,s,s,s,"https",s))},
 aGg(){var s=null
 A.jD(A.e4("github.com","/SilviaCebrian",s,s,s,s,"https",s))},
 a0d(a,b,c,d){var s=0,r=A.a7(t.CZ),q,p,o,n
